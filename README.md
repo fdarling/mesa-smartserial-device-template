@@ -28,4 +28,5 @@ SN75179BP RS-422 transceiver chip. A schematic is provided.
 ![schematic](schematic.png)
 
 https://www.digikey.com/product-detail/en/texas-instruments/SN75179BP/296-6861-5-ND/370233
+
 https://www.digikey.com/product-detail/en/nxp-usa-inc/MK20DX256VLH7/MK20DX256VLH7-ND/3742957
